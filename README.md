@@ -1,5 +1,5 @@
-
 ## 👥 Team & Roles
+
 
 # Roles in the Project Team
 
@@ -12,7 +12,9 @@
 
 ---
 
+
 ## 👤 Roles in a Project Team (by Bob)
+
 
 In an effective project team, each member plays a key role. Here's a typical breakdown of roles:
 
