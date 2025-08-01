@@ -1,12 +1,4 @@
 
-# 📘 DevBook - Projet Collaboratif Git/GitHub
-
-## 🎯 Project Objectives
-
-The goal of this project is to practice Git and GitHub collaboratively, without requiring programming skills. It allows team members (3 to 4 people) to master Git workflows, pull requests, conflict resolution, and team project management.
-
----
-
 ## 👥 Team & Roles
 
 # Roles in the Project Team
