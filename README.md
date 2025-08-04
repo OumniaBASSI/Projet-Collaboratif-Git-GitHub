@@ -4,7 +4,7 @@ DevBook is a collaborative learning project crafted for students, coding bootcam
 
 Rather than building software, participants work together on structured documentation using Markdown files. This project emphasizes:
 
- Team collaboration
+ collaborer avec l'equipe
 
  Version control best practices
 
