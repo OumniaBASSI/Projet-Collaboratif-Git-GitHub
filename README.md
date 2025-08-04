@@ -4,13 +4,13 @@ DevBook is a collaborative learning project crafted for students, coding bootcam
 
 Rather than building software, participants work together on structured documentation using Markdown files. This project emphasizes:
 
-🤝 Team collaboration
+ Team collaboration
 
-🗂️ Version control best practices
+ Version control best practices
 
-🔀 Branching, merging & conflict resolution
+Branching, merging & conflict resolution
 
-📚 Real-world Git workflows
+Real-world Git workflows
 
 DevBook provides a hands-on, realistic environment that mirrors how professional and open-source teams manage shared repositories. Whether you're just starting with Git or looking to sharpen your skills with pull requests and collaborative branching strategies, DevBook is your sandbox for learning by doing.
 # Projet-Collaboratif-Git-GitHub
